@@ -617,6 +617,7 @@ h1 {
   letter-spacing: 0.04em;
   color: #fff;
   outline: none;
+  opacity: 0.3;
 }
 .footer-form-input::placeholder {
   color: #fff;
@@ -692,6 +693,9 @@ h1 {
   }
   .footer-social-link-wrapper {
     margin-right: 80px;
+  }
+  .footer-form-input {
+    opacity: 1;
   }
 }
 /* /footer */
